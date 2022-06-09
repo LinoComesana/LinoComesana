@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Lino Comesaña, and I am now a doctoral student at the University of Vigo. I got my Master's degree in Nuclear and Particle Physics at the University of Santiago de Compostela, Spain, same place where I received my bachelor's degree in Physics.
+
+As an Early Stage Researcher of the Applied Geotechnologies Research Group (Geotech), I am now working in geospatial data applications with the development of Deep Learning algorithms, with special interest in Remote Sensing systems that deal with different laser wavelengths (hyperespectral sources).
+
+
 <!--
 **LinoComesana/LinoComesana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
